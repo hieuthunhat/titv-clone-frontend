@@ -3,12 +3,12 @@ import '../../../assets/Header/header.css'
 
 const AccountBox = () => {
   return (
-    <div className="auth-container">
-        <MdAccountCircle className="auth-logo"/>
-        <div className="auth-box">
-            LOGIN/SIGN UP
-        </div>
-    </div>
+    <a href="/user-account" className="auth-container">
+      <MdAccountCircle className="auth-logo" />
+      <div className="auth-box">
+        LOGIN/SIGN UP
+      </div>
+    </a>
   )
 }
 
