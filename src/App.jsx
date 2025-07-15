@@ -1,10 +1,9 @@
-import AppLayout from './layouts/AppLayout'
-import Layout from './tut11/Layout'
+import AppLayout from "./layouts/AppLayout"
+
 
 function App() {
   return (
-      // <AppLayout></AppLayout>
-      <Layout></Layout>
+    <AppLayout></AppLayout>
   )
 }
 
