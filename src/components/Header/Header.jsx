@@ -1,6 +1,6 @@
 import logo from '../../assets/logo.png';
 import AccountBox from './AccountBox/AccountBox';
-import '../../assets/Header/header.css';
+import '../../assets/Component/Header/header.css';
 
 const Header = () => {
   return (

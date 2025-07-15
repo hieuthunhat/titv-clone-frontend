@@ -1,5 +1,5 @@
 import { MdAccountCircle } from "react-icons/md";
-import '../../../assets/Header/header.css'
+import '../../../assets/Component/Header/header.css'
 
 const AccountBox = () => {
   return (
